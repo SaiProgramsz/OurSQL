@@ -1,4 +1,4 @@
-<h1 align="center">SQLite Source Repository</h1>
+<h1 align="center">OurSQL Source Repository</h1>
 
 This repository contains the complete source code for the
 [SQLite database engine](https://sqlite.org/), including
